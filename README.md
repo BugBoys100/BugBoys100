@@ -1,3 +1,5 @@
+### <h1 align='center'>Bug Boys</h1>
+
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
@@ -13,7 +15,7 @@
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
+  <img src="https://profile-counter.glitch.me/BugBoys100/count.svg" />
 </p>
 
 
